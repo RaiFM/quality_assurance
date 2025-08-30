@@ -1,0 +1,29 @@
+> Caminhos de aprendizado para QA
+
+Objetivo:
+
+Explicar conceitos detalhadamente
+
+Conceitos:
+
+- Dominar Automação de testes Web
+- Testes de API
+- Expandir para outras linguagens
+
+-----
+
+> Áreas Específicas de QA para se especializar
+
+Objetivo:
+
+Explicar conceitos detalhadamente:
+
+Conceitos:
+
+- Testes de performance 
+- Testes Mobile
+- Testes de segurança
+- Certificações recomendadas
+- Soft Skills Essenciais para QA
+- RoadMap Recomendado
+- Dica final: Portifólio

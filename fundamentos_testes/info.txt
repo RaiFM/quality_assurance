@@ -1,0 +1,8 @@
+Fundamentos de teste
+
+Objetivo:
+- Porque testar? (Explicação)
+
+Como Fazer:
+- Exemplo prático (JUnity 5)
+- Benefícios

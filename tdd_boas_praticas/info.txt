@@ -1,0 +1,19 @@
+TDD e boas práticas (QualityAssurance3)
+
+Objetivo:
+
+Aplicar esses conceitos no desafio:
+
+- Ciclo Red-Green-Refactor do TDD
+- Aprender a escrever testes antes do código de produção
+
+- Boas práticas para testes sustentáveis
+-> Regras de ouro
+-> Padrão AAA
+
+- Testes de Exceções 
+
+Desafio: 
+
+- Aplicação (Password Validator, final do documento ) 
+-> Checklist de qualidade

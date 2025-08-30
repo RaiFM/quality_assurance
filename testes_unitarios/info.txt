@@ -1,0 +1,23 @@
+Junity e Testes Unitários
+
+Objetivo:
+
+- Exemplos para comprovara domínio sobre o JUnity 5
+- Aprender a escrever testes eficazes com asserções
+- Seguir padrão AAA
+- Praticar com exemplos reais
+
+Como fazer: 
+
+-> Estrutura Básica 
+
+>>> QualityAssurance2 - Fazer com o exercício prático ou criar um cenário, final do documento
+>>> 1 exemplo de cada tópico
+
+- Estrutura projeto Maven (Estrutura no documento)
+- Anotações básicas (Ordem de execução) 
+- Asserções avançadas
+- Asserções complexas
+- Testes parametrizados
+
+- Boas práticas

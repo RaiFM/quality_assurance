@@ -1,0 +1,14 @@
+Tópicos Avançados 
+
+Objetivos:
+
+- Técnicas de Mocking com mockito
+- Implementar testes parametrizados complexos
+- Medir cobertura de testes com JaCoCo
+- Entender testes de integração 
+
+Como fazer 
+- Testes com Mock
+- Testess parametrizados Avançados
+- testes com JaCoCo
+- Teste de integração 
